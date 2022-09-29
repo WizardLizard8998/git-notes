@@ -15,3 +15,7 @@ git commit --amend // yeni commit etmeden varolan committe düzenleme yapmak \* 
 git commit --amend -m "" // commit mesajı değiştirmek için varolan birşey
 
 git revert 64d36cb9b604b2552a11148461df94b422147da5 // yapılan commiti geri alma commit hash ile
+
+git reset --hard 64d36cb9b604b2552a11148461df94b422147da5 // commit head i taşıyor
+
+git diff hasha hashb filename // diff patch teki difff in aynısı
