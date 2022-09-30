@@ -32,3 +32,4 @@ git branch -D name // name branch siler
 
 git merge branchname // merge
 
+--squash ile yapılırsa tek commit olarak gelirler
