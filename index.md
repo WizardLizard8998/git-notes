@@ -33,3 +33,9 @@ git branch -D name // name branch siler
 git merge branchname // merge
 
 --squash ile yapılırsa tek commit olarak gelirler
+
+mergelerde conflict denen bir yapı var ve iki branchde aynı dosyada aynı satırlarda sıkıntılar yaşanırsa çakışma olur buna conflict denir
+bunları düzeltmek için seçim yapılması laızm
+ baya dosyadan düzeltip commit ediyosun 
+ 
+ git merge --abort // merge i geri alma 
