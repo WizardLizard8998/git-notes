@@ -30,4 +30,5 @@ git checkout -b name // name oluşturur ve geçiş yapar
 
 git branch -D name // name branch siler
 
+git merge branchname // merge
 
